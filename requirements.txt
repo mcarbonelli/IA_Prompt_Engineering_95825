@@ -1,0 +1,7 @@
+openai>=1.0.0
+pillow
+python-dotenv
+ipython
+notebook
+jupyterlab
+matplotlib
